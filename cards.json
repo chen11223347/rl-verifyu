@@ -1,0 +1,11 @@
+{
+  "cards": [
+    {"key": "VIP-ABCD1234", "expire": 0, "max_devices": 1},
+    {"key": "VIP-EFGH5678", "expire": 0, "max_devices": 1}
+  ],
+  "settings": {
+    "allow_offline": true,
+    "bind_device": true
+  }
+}
+
